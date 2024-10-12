@@ -1,7 +1,13 @@
 # PortfolioProjects
 ---------------------------------------Movie Corrlation Data Project--------------------------------------------------------------------
 
-This project aims to analyze and explore correlations between various movie factors such as box office revenue, ratings, genres, and more. Using a dataset of popular movies, the analysis dives into trends, statistical relationships, and insights that can help better understand what drives movie success. The project leverages tools such as Python, Pandas, and Matplotlib for data manipulation, visualization, and insights extraction.
+This project aims to analyze and explore correlations between various movie factors such as box office revenue, ratings, genres, and more. 
+Using a dataset of popular movies, the analysis dives into trends, statistical relationships, and insights that can help better understand 
+what drives movie success. The project leverages tools such as Python, Pandas, and Matplotlib for data manipulation, visualization, and 
+insights extraction.
+
+
+
 
 Key Features:
 -Data Cleaning and Preprocessing: Handled missing values, removed duplicates, and formatted data to ensure consistency.
